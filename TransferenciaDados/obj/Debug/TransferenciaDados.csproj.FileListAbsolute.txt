@@ -1,0 +1,610 @@
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll.config
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.pdb
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.dll
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.dll
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.dll
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Memory.dll
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\ZstdNet.dll
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.pdb
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll.config
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.pdb
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.xml
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.xml
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.xml
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Memory.xml
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.AssemblyReference.cache
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CoreCompileInputs.cache
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CopyComplete
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.dll
+C:\Users\Felip\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.pdb
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll.config
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.pdb
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.dll
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.dll
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.dll
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.dll
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\System.Memory.dll
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\Ubiety.Dns.Core.dll
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\ZstdNet.dll
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.pdb
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll.config
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.xml
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.pdb
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.xml
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.xml
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.xml
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.xml
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.xml
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\System.Memory.xml
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\backup\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\backup\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.AssemblyReference.cache
+D:\Downloads\backup\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CoreCompileInputs.cache
+D:\Downloads\backup\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CopyComplete
+D:\Downloads\backup\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.dll
+D:\Downloads\backup\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.pdb
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll.config
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.pdb
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Memory.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\ZstdNet.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.pdb
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll.config
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.pdb
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Memory.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.AssemblyReference.cache
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CoreCompileInputs.cache
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CopyComplete
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.pdb
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll.config
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.pdb
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Memory.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\ZstdNet.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.pdb
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll.config
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.pdb
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Memory.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.AssemblyReference.cache
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CoreCompileInputs.cache
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CopyComplete
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.pdb
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll.config
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.pdb
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.dll
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.dll
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Memory.dll
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\ZstdNet.dll
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.pdb
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll.config
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.xml
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.xml
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Memory.xml
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.AssemblyReference.cache
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CoreCompileInputs.cache
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CopyComplete
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.dll
+C:\Users\Aluado JK\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.pdb
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll.config
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.pdb
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\System.Memory.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\Ubiety.Dns.Core.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\ZstdNet.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.pdb
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll.config
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.pdb
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\System.Memory.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CoreCompileInputs.cache
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CopyComplete
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Adega 2\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.pdb
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll.config
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.pdb
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.dll
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.dll
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.dll
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Memory.dll
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\ZstdNet.dll
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.pdb
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll.config
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.pdb
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.xml
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.xml
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.xml
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Memory.xml
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.AssemblyReference.cache
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CoreCompileInputs.cache
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CopyComplete
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.dll
+C:\Users\kelvin.csmachado\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.pdb
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll.config
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.pdb
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.dll
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.dll
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.dll
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Memory.dll
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\ZstdNet.dll
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.pdb
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll.config
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.pdb
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.xml
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.xml
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.xml
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Memory.xml
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.AssemblyReference.cache
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CoreCompileInputs.cache
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CopyComplete
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.dll
+C:\Users\rennan.lreis\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.pdb
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll.config
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.pdb
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.dll
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.dll
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.dll
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.dll
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\System.Memory.dll
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\Ubiety.Dns.Core.dll
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\ZstdNet.dll
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.pdb
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll.config
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.xml
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.pdb
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.xml
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.xml
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.xml
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.xml
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.xml
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\System.Memory.xml
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.AssemblyReference.cache
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CoreCompileInputs.cache
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CopyComplete
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.dll
+D:\Downloads\Adega 2 (2)\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.pdb
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll.config
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.pdb
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.dll
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.dll
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.dll
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.dll
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\System.Memory.dll
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\Ubiety.Dns.Core.dll
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\ZstdNet.dll
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.pdb
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll.config
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.xml
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.pdb
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.xml
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.xml
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.xml
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.xml
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.xml
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\System.Memory.xml
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.AssemblyReference.cache
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CoreCompileInputs.cache
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CopyComplete
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.dll
+D:\Downloads\Adega 2-20221023T150453Z-001\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.pdb
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll.config
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.pdb
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.dll
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.dll
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.dll
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.dll
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.dll
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.dll
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\System.Memory.dll
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.dll
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\Ubiety.Dns.Core.dll
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\ZstdNet.dll
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.pdb
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll.config
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.xml
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.pdb
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.xml
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.xml
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.xml
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.xml
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.xml
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\System.Memory.xml
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.xml
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CoreCompileInputs.cache
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CopyComplete
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.dll
+D:\João Veloso corno manso\Programação\Projeto C++\adega_24_10\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.pdb
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll.config
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.pdb
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\System.Memory.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\ZstdNet.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.pdb
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll.config
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.pdb
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\System.Memory.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.AssemblyReference.cache
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CoreCompileInputs.cache
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CopyComplete
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.pdb
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll.config
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.pdb
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Memory.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\ZstdNet.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.pdb
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll.config
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.pdb
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Memory.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.AssemblyReference.cache
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CoreCompileInputs.cache
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CopyComplete
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.pdb
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll.config
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.dll
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\TransferenciaDados.pdb
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.dll
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.dll
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.dll
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.dll
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\System.Memory.dll
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\Ubiety.Dns.Core.dll
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\ZstdNet.dll
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.pdb
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\AcessoBanco.dll.config
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.xml
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.pdb
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\Google.Protobuf.xml
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.xml
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.xml
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\MySql.Data.xml
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\System.Buffers.xml
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\System.Memory.xml
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.AssemblyReference.cache
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CoreCompileInputs.cache
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CopyComplete
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.dll
+D:\Downloads\adega meu\Adega 2\TransferenciaDados\obj\Debug\TransferenciaDados.pdb
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\TransferenciaDados.dll.config
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\TransferenciaDados.dll
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\TransferenciaDados.pdb
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\AcessoBanco.dll
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\Google.Protobuf.dll
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\MySql.Data.dll
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Buffers.dll
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Memory.dll
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\ZstdNet.dll
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\AcessoBanco.pdb
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\AcessoBanco.dll.config
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\Google.Protobuf.pdb
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\Google.Protobuf.xml
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\MySql.Data.xml
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Buffers.xml
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Memory.xml
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.AssemblyReference.cache
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CoreCompileInputs.cache
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CopyComplete
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.dll
+C:\Users\matheus.mdsilva\source\repos\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.pdb
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\TransferenciaDados.dll.config
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\TransferenciaDados.dll
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\TransferenciaDados.pdb
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\AcessoBanco.dll
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.dll
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\Google.Protobuf.dll
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\MySql.Data.dll
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Buffers.dll
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Memory.dll
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\Ubiety.Dns.Core.dll
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\ZstdNet.dll
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\AcessoBanco.pdb
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\AcessoBanco.dll.config
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.xml
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\Google.Protobuf.pdb
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\Google.Protobuf.xml
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.xml
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.xml
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\MySql.Data.xml
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Buffers.xml
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Memory.xml
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.AssemblyReference.cache
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CoreCompileInputs.cache
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CopyComplete
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.dll
+D:\Downloads\Adega 2 luiz-20221030T022027Z-001\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.pdb
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\TransferenciaDados.dll.config
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\TransferenciaDados.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\TransferenciaDados.pdb
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\AcessoBanco.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\Google.Protobuf.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\MySql.Data.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Buffers.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Memory.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Numerics.Vectors.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\Ubiety.Dns.Core.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\ZstdNet.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\AcessoBanco.pdb
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\AcessoBanco.dll.config
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\Google.Protobuf.pdb
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\Google.Protobuf.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\MySql.Data.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Buffers.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Memory.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Numerics.Vectors.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.AssemblyReference.cache
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CoreCompileInputs.cache
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CopyComplete
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.dll
+D:\João Veloso corno manso\Programação\Projeto C++\Projeto adega finalizadp\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.pdb
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\TransferenciaDados.dll.config
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\TransferenciaDados.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\TransferenciaDados.pdb
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\AcessoBanco.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\Google.Protobuf.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\MySql.Data.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Buffers.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Memory.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\ZstdNet.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\AcessoBanco.pdb
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\AcessoBanco.dll.config
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\Google.Protobuf.pdb
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\Google.Protobuf.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\MySql.Data.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Buffers.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Memory.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.AssemblyReference.cache
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CoreCompileInputs.cache
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.csproj.CopyComplete
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\TransferenciaDados\obj\Debug\TransferenciaDados.pdb

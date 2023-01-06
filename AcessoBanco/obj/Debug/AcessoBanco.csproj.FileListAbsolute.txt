@@ -1,0 +1,247 @@
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.dll.config
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.dll
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.pdb
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.dll
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\MySql.Data.dll
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Buffers.dll
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Memory.dll
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\ZstdNet.dll
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.pdb
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.xml
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\MySql.Data.xml
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Buffers.xml
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Memory.xml
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.AssemblyReference.cache
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.CoreCompileInputs.cache
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.CopyComplete
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.dll
+C:\Users\Felip\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.pdb
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.dll.config
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.dll
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.pdb
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\BouncyCastle.Crypto.dll
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.dll
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.dll
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\K4os.Hash.xxHash.dll
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\MySql.Data.dll
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\System.Buffers.dll
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\System.Memory.dll
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\Ubiety.Dns.Core.dll
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\ZstdNet.dll
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\BouncyCastle.Crypto.xml
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.pdb
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.xml
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.xml
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\K4os.Hash.xxHash.xml
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\MySql.Data.xml
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\System.Buffers.xml
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\System.Memory.xml
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\backup\Adega 2\AcessoBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\backup\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.AssemblyReference.cache
+D:\Downloads\backup\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.CoreCompileInputs.cache
+D:\Downloads\backup\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.CopyComplete
+D:\Downloads\backup\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.dll
+D:\Downloads\backup\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.pdb
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.dll.config
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.pdb
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\MySql.Data.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Buffers.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Memory.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\ZstdNet.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.pdb
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\MySql.Data.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Buffers.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Memory.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.CoreCompileInputs.cache
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.CopyComplete
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.dll
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.pdb
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.dll.config
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.pdb
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\MySql.Data.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Buffers.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Memory.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\ZstdNet.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.pdb
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\MySql.Data.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Buffers.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Memory.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.AssemblyReference.cache
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.CoreCompileInputs.cache
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.CopyComplete
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.dll
+C:\Users\kelvin.lsaraujo\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.pdb
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.dll.config
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.dll
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.pdb
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\MySql.Data.dll
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Buffers.dll
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Memory.dll
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\ZstdNet.dll
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\MySql.Data.xml
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Buffers.xml
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Memory.xml
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.AssemblyReference.cache
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.CoreCompileInputs.cache
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.CopyComplete
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.dll
+C:\Users\Aluado JK\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.pdb
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.dll.config
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.pdb
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\MySql.Data.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\System.Buffers.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\System.Memory.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\ZstdNet.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.pdb
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\MySql.Data.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\System.Buffers.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\System.Memory.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.AssemblyReference.cache
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.CoreCompileInputs.cache
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.CopyComplete
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.dll
+C:\Users\joao.vpveloso\Downloads\Adega 2 (1)\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.pdb
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.dll.config
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\AcessoBanco.pdb
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\MySql.Data.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Buffers.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Memory.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\ZstdNet.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.pdb
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\Google.Protobuf.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\MySql.Data.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Buffers.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Memory.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.CoreCompileInputs.cache
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.CopyComplete
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.pdb
+C:\Users\luiz.fsoliveira13\source\repos\Adega 2\AcessoBanco\obj\Debug\AcessoBanco.csproj.AssemblyReference.cache
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\AcessoBanco.dll.config
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\AcessoBanco.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\AcessoBanco.pdb
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\Google.Protobuf.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\MySql.Data.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\System.Buffers.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\System.Memory.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\ZstdNet.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\Google.Protobuf.pdb
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\Google.Protobuf.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\MySql.Data.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\System.Buffers.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\System.Memory.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\obj\Debug\AcessoBanco.csproj.AssemblyReference.cache
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\obj\Debug\AcessoBanco.csproj.CoreCompileInputs.cache
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\obj\Debug\AcessoBanco.csproj.CopyComplete
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\obj\Debug\AcessoBanco.dll
+C:\Users\joao.vpveloso\source\repos\Adega 2 luiz\AcessoBanco\obj\Debug\AcessoBanco.pdb
